@@ -1,5 +1,5 @@
 [submodule "irec-fractionalization"]
-	path = irec-frontend
+	path = irec-fractionalization
 	url = https://github.com/calebomondi/irec-frontend
 [submodule "irec-smartcontract"]
 	path = irec-smartcontract
