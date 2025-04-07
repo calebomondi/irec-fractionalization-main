@@ -49,19 +49,19 @@ The smart contracts implement:
 
 1. Clone the repository with submodules:
    ```bash
-   git clone --recurse-submodules https://github.com/calebomondi/irec-fractionalization.git
-   cd irec-fractionalization
+   git clone --recurse-submodules https://github.com/calebomondi/irec-fractionalization-main.git
+   cd irec-fractionalization-main
    ```
 
 2. Install dependencies for both smart contracts and frontend:
    ```bash
    # Install smart contract dependencies
-   cd irec-smartcontracts
+   cd irec-smartcontract
    npm install
    cd ..
 
    # Install frontend dependencies
-   cd frontend
+   cd irec-frontend
    npm install
    cd ..
    ```
@@ -70,7 +70,7 @@ The smart contracts implement:
 
 1. Navigate to the smart contracts directory:
    ```bash
-   cd irec-smartcontracts
+   cd irec-smartcontract
    ```
 
 2. Compile the contracts:
